@@ -73,8 +73,6 @@
 
 ## 管理员端界面示意
 
-![管理端数据看板](https://yunzhuceshi.oss-cn-beijing.aliyuncs.com/typoraImg/admin-dashboard.png)
-
 ![用户管理](https://yunzhuceshi.oss-cn-beijing.aliyuncs.com/typoraImg/admin-users.png)
 
 ![工地打卡范围](https://yunzhuceshi.oss-cn-beijing.aliyuncs.com/typoraImg/admin-site-fence.png)
